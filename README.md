@@ -5,7 +5,7 @@ This is a github repository dedicated to my machine learning projects
 
 # Image Classification
 
-### Classifying Gaelic football kits
+### [Classifying Gaelic football kits](ImageClassification/gaelicJerseys.ipynb)
 
 ![Alt text](gaelicJerseyProject.png)
 
