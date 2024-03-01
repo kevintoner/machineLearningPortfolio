@@ -9,5 +9,5 @@ This is a github repository dedicated to my machine learning projects
 
 ![Alt text](gaelicJerseyProject.png)
 
-- Webscraped images of gaelic football kits from the internet
+- Webscraped images of Gaelic football kits from the internet
 - Trained a CNN to classify the different Gaelic football kits
