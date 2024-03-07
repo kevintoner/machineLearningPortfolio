@@ -11,3 +11,10 @@ This is a github repository dedicated to my machine learning projects
 
 - Webscraped images of Gaelic football kits from the internet
 - Trained a CNN to classify the different Gaelic football kits
+
+### [Classifying MNIST Dataset](ImageClassification/gaelicJerseys.ipynb)
+
+![Alt text](gaelicJerseyProject.png)
+
+- Webscraped images of Gaelic football kits from the internet
+- Trained a CNN to classify the different Gaelic football kits
