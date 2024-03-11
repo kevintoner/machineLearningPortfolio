@@ -17,5 +17,5 @@ This is a github repository dedicated to my machine learning projects
 ![Alt text](Images/mnist.png)
 
 - Training a CNN to classify the different numbers from the famous MNIST dataset (from  [Kaggle Competition](https://www.kaggle.com/competitions/digit-recognizer/overview))
-- Accuracy: 0.99503
+- Accuracy on the test dataset: 0.99503
 - Position: 95 / 1,545 on Kaggle Leaderboards (as of 11th March 2024)
