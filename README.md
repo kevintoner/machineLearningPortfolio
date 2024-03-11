@@ -20,3 +20,7 @@ This is a github repository dedicated to my machine learning projects
 - Training a CNN to classify the different numbers from the famous MNIST dataset (from  [Kaggle Competition](https://www.kaggle.com/competitions/digit-recognizer/overview))
 - Accuracy on the test dataset: 0.99503
 - Position: 95 / 1,545 on Kaggle Leaderboards (as of 11th March 2024)
+
+### [Classifying Melanoma Cancer Type](ImageClassification/mnist.ipynb)
+
+- Training a CNN to classify the type of melanoma cancer as Benign or Malignant
