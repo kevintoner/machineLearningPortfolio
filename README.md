@@ -11,6 +11,7 @@ This is a github repository dedicated to my machine learning projects
 
 - Webscraped images of Gaelic football kits from the internet
 - Trained a CNN to classify the different Gaelic football kits
+- Across 33 classes, accuracy of 0.9421 was achieved
 
 ### [Classifying MNIST Dataset](ImageClassification/mnist.ipynb)
 
