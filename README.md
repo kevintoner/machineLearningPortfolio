@@ -23,4 +23,12 @@ This is a github repository dedicated to my machine learning projects
 
 ### [Classifying Melanoma Cancer Type](ImageClassification/mnist.ipynb)
 
+![Alt text](Images/cancer.png)
+
 - Training a CNN to classify the type of melanoma cancer as Benign or Malignant
+- Accuracy on the test dataset: 0.8635
+
+# Tabular Regression
+
+### [Classifying MNIST Dataset](ImageClassification/mnist.ipynb)
+
