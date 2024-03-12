@@ -30,11 +30,11 @@ This is a github repository dedicated to my machine learning projects
 
 # Tabular Regression
 
-### [Classifying MNIST Dataset](ImageClassification/mnist.ipynb)
+### [Predicting House Prices](ImageClassification/mnist.ipynb)
 
 # Tabular Classification
 
 ### [Iris Flowers](ImageClassification/mnist.ipynb)
-- Simple
-- - Accuracy on the test dataset: 1.0
+- Very simple dataset
+- Accuracy on the test dataset: 1.0
 
