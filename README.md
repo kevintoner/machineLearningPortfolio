@@ -28,13 +28,21 @@ This is a github repository dedicated to my machine learning projects
 - Training a CNN to classify the type of melanoma cancer as Benign or Malignant
 - Accuracy on the test dataset: 0.8635
 
+<!-- ----------------------------------------------------------------------- -->
+<!-- ----------------------------------------------------------------------- -->
 # Tabular Regression
 
 ### [Predicting House Prices](ImageClassification/mnist.ipynb)
 
+<!-- ----------------------------------------------------------------------- -->
+<!-- ----------------------------------------------------------------------- -->
 # Tabular Classification
 
 ### [Iris Flowers](ImageClassification/mnist.ipynb)
+- Very simple dataset
+- Accuracy on the test dataset: 1.0
+
+### [Heart Disease](ImageClassification/mnist.ipynb)
 - Very simple dataset
 - Accuracy on the test dataset: 1.0
 
