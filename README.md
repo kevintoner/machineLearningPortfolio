@@ -32,3 +32,9 @@ This is a github repository dedicated to my machine learning projects
 
 ### [Classifying MNIST Dataset](ImageClassification/mnist.ipynb)
 
+# Tabular Classification
+
+### [Iris Flowers](ImageClassification/mnist.ipynb)
+- Simple
+- - Accuracy on the test dataset: 1.0
+
