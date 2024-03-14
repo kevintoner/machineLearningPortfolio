@@ -43,11 +43,11 @@ This is a github repository dedicated to my machine learning projects
 <img src="Images/Titanic.png" alt="Alt text" width="200" height="200">
 - Predict if passengers on the Titanic will survive or die
 
-### [Iris Flowers](ImageClassification/mnist.ipynb)
+### [Iris Flowers](ImageClassification/irisFlowers.ipynb)
 - Very simple dataset
 - Accuracy on the test dataset: 1.0
 
-### [Heart Disease](ImageClassification/mnist.ipynb)
+### [Heart Disease](ImageClassification/heart.ipynb)
 - Very simple dataset
 - Accuracy on the test dataset: 1.0
 
