@@ -38,7 +38,7 @@ This is a github repository dedicated to my machine learning projects
 <!-- ----------------------------------------------------------------------- -->
 # Tabular Classification
 
-### [Titanic Survival](TabularClassification/Titanic.ipynb)
+### [Titanic Survival](TabularClassification/titanic.ipynb)
 
 <img src="Images/Titanic.png" alt="Alt text" width="200" height="200">
 - Predict if passengers on the Titanic will survive or die
